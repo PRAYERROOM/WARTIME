@@ -14,7 +14,7 @@
   background-image:url('http://goo.gl/04j7Nn');
   height: 500px;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: 100%;
 }
 
 .jumbotron .container {
